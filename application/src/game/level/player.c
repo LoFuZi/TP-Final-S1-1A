@@ -149,7 +149,7 @@ void Player_damage(Player *self, int damage)
 
     if (self->m_hp <= 0)
     {
-        // MORT
+        // JOUEUR MORT
         self->m_state = PLAYER_STATE_DEAD;
         Game_playSoundFX(assets, SOUND_PLAYER_DIYNG);
     }
