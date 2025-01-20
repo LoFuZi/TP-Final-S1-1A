@@ -1,0 +1,3 @@
+C:/Users/lofuz/Desktop/Info ESIEA/TP/Final/SpacePixel/_build_vs/CMakeFiles/ALL_BUILD.dir
+C:/Users/lofuz/Desktop/Info ESIEA/TP/Final/SpacePixel/_build_vs/CMakeFiles/ZERO_CHECK.dir
+C:/Users/lofuz/Desktop/Info ESIEA/TP/Final/SpacePixel/_build_vs/application/CMakeFiles/application.dir
